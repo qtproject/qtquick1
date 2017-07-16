@@ -514,7 +514,7 @@ void QDeclarativeTextInput::setCursorVisible(bool on)
     if (d->cursorVisible == on)
         return;
     d->cursorVisible = on;
-    d->control->setCursorBlinkPeriod(on?QApplication::cursorFlashTime():0);
+    d->control->setBlinkingCursorEnabled(on);
     QRect r = d->control->cursorRect();
     if (d->control->inputMask().isEmpty())
         updateRect(r);
