@@ -31,11 +31,11 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeborderimage_p.h"
-#include "private/qdeclarativeborderimage_p_p.h"
+#include "qdeclarativeborderimage_p.h"
+#include "qdeclarativeborderimage_p_p.h"
 
 #include <qdeclarativeinfo.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <QNetworkRequest>
 #include <QNetworkReply>

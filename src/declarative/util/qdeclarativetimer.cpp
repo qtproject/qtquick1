@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativetimer_p.h"
+#include "qdeclarativetimer_p.h"
 
 #include <QtCore/qcoreapplication.h>
 #include <QtCore/qpauseanimation.h>
 #include <qdebug.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

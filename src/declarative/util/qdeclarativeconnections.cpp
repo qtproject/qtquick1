@@ -31,20 +31,20 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeconnections_p.h"
+#include "qdeclarativeconnections_p.h"
 
 #include <qdeclarativeexpression.h>
-#include <private/qdeclarativeproperty_p.h>
-#include <private/qdeclarativeboundsignal_p.h>
+#include <qdeclarativeproperty_p.h>
+#include <qdeclarativeboundsignal_p.h>
 #include <qdeclarativecontext.h>
-#include <private/qdeclarativecontext_p.h>
+#include <qdeclarativecontext_p.h>
 #include <qdeclarativeinfo.h>
 
 #include <QtCore/qdebug.h>
 #include <QtCore/qdatastream.h>
 #include <QtCore/qstringlist.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

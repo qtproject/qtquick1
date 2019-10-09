@@ -33,7 +33,7 @@
 #include <qtest.h>
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/private/qdeclarativedom_p.h>
+#include <QtDeclarative/qdeclarativedom_p.h>
 
 #include <QtCore/QDebug>
 #include <QtCore/QFile>

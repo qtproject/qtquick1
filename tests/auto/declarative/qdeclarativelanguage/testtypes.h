@@ -46,7 +46,7 @@
 #include <QtDeclarative/qdeclarativescriptstring.h>
 #include <QtDeclarative/qdeclarativeproperty.h>
 
-#include <private/qdeclarativecustomparser_p.h>
+#include <qdeclarativecustomparser_p.h>
 
 QVariant myCustomVariantTypeConverter(const QString &data);
 

@@ -46,7 +46,7 @@
 //
 
 #include "qdeclarativeitem.h"
-#include "private/qdeclarativeimplicitsizeitem_p_p.h"
+#include "qdeclarativeimplicitsizeitem_p_p.h"
 
 #include <qdeclarative.h>
 

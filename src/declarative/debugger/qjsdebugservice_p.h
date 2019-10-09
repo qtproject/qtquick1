@@ -48,7 +48,7 @@
 #include <QtCore/QPointer>
 #include <QElapsedTimer>
 
-#include "private/qdeclarativedebugservice_p.h"
+#include "qdeclarativedebugservice_p.h"
 
 QT_BEGIN_NAMESPACE
 

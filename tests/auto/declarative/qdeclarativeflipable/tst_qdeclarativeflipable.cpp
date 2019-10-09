@@ -34,10 +34,10 @@
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
 #include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativeflipable_p.h>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativeflipable_p.h>
+#include <qdeclarativevaluetype_p.h>
 #include <QFontMetrics>
-#include <private/qdeclarativerectangle_p.h>
+#include <qdeclarativerectangle_p.h>
 #include <math.h>
 
 class tst_qdeclarativeflipable : public QObject

@@ -45,11 +45,11 @@
 // We mean it.
 //
 
-#include "private/qdeclarativepath_p.h"
+#include "qdeclarativepath_p.h"
 
 #include <qdeclarative.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 class QDeclarativePathPrivate : public QObjectPrivate

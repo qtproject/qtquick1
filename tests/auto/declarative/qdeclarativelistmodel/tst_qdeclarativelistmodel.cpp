@@ -31,11 +31,11 @@
 **
 ****************************************************************************/
 #include <qtest.h>
-#include <QtDeclarative/private/qdeclarativeitem_p.h>
-#include <QtDeclarative/private/qdeclarativetext_p.h>
-#include <QtDeclarative/private/qdeclarativeengine_p.h>
-#include <QtDeclarative/private/qdeclarativelistmodel_p.h>
-#include <QtDeclarative/private/qdeclarativeexpression_p.h>
+#include <QtDeclarative/qdeclarativeitem_p.h>
+#include <QtDeclarative/qdeclarativetext_p.h>
+#include <QtDeclarative/qdeclarativeengine_p.h>
+#include <QtDeclarative/qdeclarativelistmodel_p.h>
+#include <QtDeclarative/qdeclarativeexpression_p.h>
 #include <QDeclarativeComponent>
 
 #include <QtCore/qtimer.h>

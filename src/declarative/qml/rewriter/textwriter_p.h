@@ -34,7 +34,7 @@
 #ifndef TEXTWRITER_H
 #define TEXTWRITER_H
 
-#include <private/qdeclarativejsglobal_p.h>
+#include <qdeclarativejsglobal_p.h>
 
 #include <QtCore/QString>
 #include <QtCore/QList>

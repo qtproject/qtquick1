@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVESTATEGROUP_H
 #define QDECLARATIVESTATEGROUP_H
 
-#include "private/qdeclarativestate_p.h"
+#include "qdeclarativestate_p.h"
 
 QT_BEGIN_NAMESPACE
 

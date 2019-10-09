@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativestateoperations_p.h"
+#include "qdeclarativestateoperations_p.h"
 
 #include <qdeclarative.h>
 #include <qdeclarativecontext.h>
@@ -39,18 +39,18 @@
 #include <qdeclarativeinfo.h>
 #include <qdeclarativeanchors_p_p.h>
 #include <qdeclarativeitem_p.h>
-#include <private/qdeclarativeguard_p.h>
+#include <qdeclarativeguard_p.h>
 #include <qdeclarativenullablevalue_p_p.h>
-#include "private/qdeclarativecontext_p.h"
-#include "private/qdeclarativeproperty_p.h"
-#include "private/qdeclarativebinding_p.h"
-#include "private/qdeclarativestate_p_p.h"
+#include "qdeclarativecontext_p.h"
+#include "qdeclarativeproperty_p.h"
+#include "qdeclarativebinding_p.h"
+#include "qdeclarativestate_p_p.h"
 
 #include <QtCore/qdebug.h>
 #include <QtWidgets/qgraphicsitem.h>
 #include <QtCore/qmath.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

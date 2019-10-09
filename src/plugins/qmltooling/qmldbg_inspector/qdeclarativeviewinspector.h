@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEVIEWINSPECTOR_H
 #define QDECLARATIVEVIEWINSPECTOR_H
 
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativeglobal_p.h>
 
 #include "abstractviewinspector.h"
 

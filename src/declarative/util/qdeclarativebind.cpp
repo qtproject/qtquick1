@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativebind_p.h"
+#include "qdeclarativebind_p.h"
 
-#include "private/qdeclarativenullablevalue_p_p.h"
-#include "private/qdeclarativeguard_p.h"
+#include "qdeclarativenullablevalue_p_p.h"
+#include "qdeclarativeguard_p.h"
 
 #include <qdeclarativeengine.h>
 #include <qdeclarativecontext.h>
@@ -46,7 +46,7 @@
 #include <QtScript/qscriptcontext.h>
 #include <QtScript/qscriptengine.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

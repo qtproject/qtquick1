@@ -50,7 +50,7 @@
 #include <QtCore/qlist.h>
 #include <QtCore/qshareddata.h>
 
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 

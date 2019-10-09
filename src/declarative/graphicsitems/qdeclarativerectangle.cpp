@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativerectangle_p.h"
-#include "private/qdeclarativerectangle_p_p.h"
+#include "qdeclarativerectangle_p.h"
+#include "qdeclarativerectangle_p_p.h"
 
 #include <QPainter>
 #include <QStringBuilder>

@@ -37,12 +37,12 @@
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/private/qdeclarativeitem_p.h>
-#include <QtDeclarative/private/qdeclarativelistview_p.h>
-#include <QtDeclarative/private/qdeclarativetext_p.h>
-#include <QtDeclarative/private/qdeclarativevisualitemmodel_p.h>
-#include <QtDeclarative/private/qdeclarativelistmodel_p.h>
-#include <QtDeclarative/private/qlistmodelinterface_p.h>
+#include <QtDeclarative/qdeclarativeitem_p.h>
+#include <QtDeclarative/qdeclarativelistview_p.h>
+#include <QtDeclarative/qdeclarativetext_p.h>
+#include <QtDeclarative/qdeclarativevisualitemmodel_p.h>
+#include <QtDeclarative/qdeclarativelistmodel_p.h>
+#include <QtDeclarative/qlistmodelinterface_p.h>
 #include "incrementalmodel.h"
 
 class tst_QDeclarativeListView : public QObject

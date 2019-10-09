@@ -35,8 +35,8 @@
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
 #include <QtDeclarative/qdeclarativeproperty.h>
-#include <QtDeclarative/private/qdeclarativeproperty_p.h>
-#include <private/qdeclarativebinding_p.h>
+#include <QtDeclarative/qdeclarativeproperty_p.h>
+#include <qdeclarativebinding_p.h>
 #include <QtWidgets/QLineEdit>
 #include <QtCore/qfileinfo.h>
 #include <QtCore/qdir.h>

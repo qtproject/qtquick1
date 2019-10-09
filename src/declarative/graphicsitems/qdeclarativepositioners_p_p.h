@@ -45,9 +45,9 @@
 // We mean it.
 //
 
-#include "private/qdeclarativepositioners_p.h"
+#include "qdeclarativepositioners_p.h"
 
-#include "private/qdeclarativeimplicitsizeitem_p_p.h"
+#include "qdeclarativeimplicitsizeitem_p_p.h"
 
 #include <qdeclarativestate_p.h>
 #include <qdeclarativetransitionmanager_p_p.h>

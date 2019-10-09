@@ -31,15 +31,15 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativelistaccessor_p.h"
+#include "qdeclarativelistaccessor_p.h"
 
-#include <private/qdeclarativemetatype_p.h>
+#include <qdeclarativemetatype_p.h>
 
 #include <QtCore/qstringlist.h>
 #include <QtCore/qdebug.h>
 
 // ### Remove me
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 QT_BEGIN_NAMESPACE
 

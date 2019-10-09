@@ -46,7 +46,7 @@
 //
 
 #include "qdeclarativelist.h"
-#include "private/qdeclarativeguard_p.h"
+#include "qdeclarativeguard_p.h"
 
 QT_BEGIN_NAMESPACE
 

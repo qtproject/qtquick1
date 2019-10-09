@@ -45,10 +45,10 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeanimation_p.h"
+#include "qdeclarativeanimation_p.h"
 
-#include "private/qdeclarativenullablevalue_p_p.h"
-#include "private/qdeclarativetimeline_p_p.h"
+#include "qdeclarativenullablevalue_p_p.h"
+#include "qdeclarativetimeline_p_p.h"
 
 #include <qdeclarative.h>
 #include <qdeclarativeitem.h>
@@ -60,8 +60,8 @@
 #include <QtGui/QColor>
 #include <QDebug>
 
-#include <private/qobject_p.h>
-#include <private/qvariantanimation_p.h>
+#include <qobject_p.h>
+#include <qvariantanimation_p.h>
 
 QT_BEGIN_NAMESPACE
 

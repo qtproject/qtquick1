@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativetypenamescriptclass_p.h"
+#include "qdeclarativetypenamescriptclass_p.h"
 
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativetypenamecache_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativetypenamecache_p.h"
 
 QT_BEGIN_NAMESPACE
 

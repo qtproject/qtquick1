@@ -38,12 +38,12 @@
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtCore/qfileinfo.h>
 #include <QtCore/qdebug.h>
-#include <QtDeclarative/private/qdeclarativeguard_p.h>
+#include <QtDeclarative/qdeclarativeguard_p.h>
 #include <QtCore/qdir.h>
 #include <QtCore/qnumeric.h>
-#include <private/qdeclarativeengine_p.h>
-#include <private/qdeclarativeglobalscriptclass_p.h>
-#include <private/qscriptdeclarativeclass_p.h>
+#include <qdeclarativeengine_p.h>
+#include <qdeclarativeglobalscriptclass_p.h>
+#include <qscriptdeclarativeclass_p.h>
 #include "testtypes.h"
 #include "testhttpserver.h"
 

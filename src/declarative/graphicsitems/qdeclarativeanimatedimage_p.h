@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEANIMATEDIMAGE_H
 #define QDECLARATIVEANIMATEDIMAGE_H
 
-#include "private/qdeclarativeimage_p.h"
+#include "qdeclarativeimage_p.h"
 
 #ifndef QT_NO_MOVIE
 

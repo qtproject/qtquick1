@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEPIXMAPCACHE_H
 #define QDECLARATIVEPIXMAPCACHE_H
 
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 #include <QtCore/qcoreapplication.h>
 #include <QtCore/qstring.h>

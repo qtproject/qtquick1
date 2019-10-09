@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeanimatedimage_p.h"
-#include "private/qdeclarativeanimatedimage_p_p.h"
+#include "qdeclarativeanimatedimage_p.h"
+#include "qdeclarativeanimatedimage_p_p.h"
 
 #ifndef QT_NO_MOVIE
 
 #include <qdeclarativeinfo.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <QMovie>
 #include <QNetworkRequest>

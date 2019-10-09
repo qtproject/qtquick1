@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 #include <QtTest/QtTest>
-#include <private/qlistmodelinterface_p.h>
+#include <qlistmodelinterface_p.h>
 #include <qdeclarativeview.h>
 #include <qdeclarativeengine.h>
-#include <private/qdeclarativerectangle_p.h>
-#include <private/qdeclarativepositioners_p.h>
-#include <private/qdeclarativetransition_p.h>
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativerectangle_p.h>
+#include <qdeclarativepositioners_p.h>
+#include <qdeclarativetransition_p.h>
+#include <qdeclarativeitem_p.h>
 #include <qdeclarativeexpression.h>
 #include <QtWidgets/qgraphicswidget.h>
 

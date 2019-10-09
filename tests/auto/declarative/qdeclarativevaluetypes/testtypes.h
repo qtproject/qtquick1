@@ -49,7 +49,7 @@
 #include <qdeclarative.h>
 #include <QDeclarativePropertyValueSource>
 #include <QDeclarativeProperty>
-#include <private/qdeclarativeproperty_p.h>
+#include <qdeclarativeproperty_p.h>
 
 class MyTypeObject : public QObject
 {

@@ -49,8 +49,8 @@
 #include <QtCore/qurl.h>
 #include <QtScript/qscriptvalue.h>
 
-#include <private/qdeclarativecontext_p.h>
-#include <private/qdeclarativeguard_p.h>
+#include <qdeclarativecontext_p.h>
+#include <qdeclarativeguard_p.h>
 
 QT_BEGIN_NAMESPACE
 

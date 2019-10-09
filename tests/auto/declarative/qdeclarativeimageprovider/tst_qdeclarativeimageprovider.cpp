@@ -34,7 +34,7 @@
 #include <QtTest/QtTest>
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativeimageprovider.h>
-#include <private/qdeclarativeimage_p.h>
+#include <qdeclarativeimage_p.h>
 #include <QImageReader>
 #include <QWaitCondition>
 

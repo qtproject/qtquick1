@@ -33,7 +33,7 @@
 #include <qtest.h>
 #include <QtTest/QtTest>
 #include <QtGui/QTextLayout>
-#include <private/qdeclarativestyledtext_p.h>
+#include <qdeclarativestyledtext_p.h>
 
 class tst_qdeclarativestyledtext : public QObject
 {

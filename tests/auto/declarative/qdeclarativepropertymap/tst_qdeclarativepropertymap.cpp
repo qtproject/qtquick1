@@ -35,7 +35,7 @@
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtDeclarative/qdeclarativepropertymap.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativetext_p.h>
+#include <qdeclarativetext_p.h>
 #include <QSignalSpy>
 
 class tst_QDeclarativePropertyMap : public QObject

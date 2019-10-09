@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeflipable_p.h"
+#include "qdeclarativeflipable_p.h"
 
-#include "private/qdeclarativeitem_p.h"
-#include "private/qdeclarativeguard_p.h"
+#include "qdeclarativeitem_p.h"
+#include "qdeclarativeguard_p.h"
 
 #include <qdeclarativeinfo.h>
 

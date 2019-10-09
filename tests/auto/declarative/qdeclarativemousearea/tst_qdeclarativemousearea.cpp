@@ -34,9 +34,9 @@
 #include <QtTest/QtTest>
 #include <QtTest/QSignalSpy>
 #include <QApplication>
-#include <private/qdeclarativemousearea_p.h>
-#include <private/qdeclarativerectangle_p.h>
-#include <private/qdeclarativeflickable_p.h>
+#include <qdeclarativemousearea_p.h>
+#include <qdeclarativerectangle_p.h>
+#include <qdeclarativeflickable_p.h>
 #include <QtDeclarative/qdeclarativeview.h>
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtDeclarative/qdeclarativeengine.h>

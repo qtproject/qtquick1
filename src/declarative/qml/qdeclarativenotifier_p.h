@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVENOTIFIER_P_H
 #define QDECLARATIVENOTIFIER_P_H
 
-#include "private/qdeclarativeguard_p.h"
+#include "qdeclarativeguard_p.h"
 
 QT_BEGIN_NAMESPACE
 

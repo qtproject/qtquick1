@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativedebuggerstatus_p.h"
+#include "qdeclarativedebuggerstatus_p.h"
 
 QT_BEGIN_NAMESPACE
 

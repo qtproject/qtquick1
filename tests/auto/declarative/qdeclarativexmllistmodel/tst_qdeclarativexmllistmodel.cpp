@@ -30,7 +30,7 @@
 ** $QT_END_LICENSE$
 **
 ****************************************************************************/
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <QtTest/QtTest>
 #include <QtGlobal>
@@ -47,7 +47,7 @@
 
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativexmllistmodel_p.h>
+#include <qdeclarativexmllistmodel_p.h>
 
 typedef QPair<int, int> QDeclarativeXmlListRange;
 typedef QList<QVariantList> QDeclarativeXmlModelData;

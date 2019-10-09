@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativefontloader_p.h"
+#include "qdeclarativefontloader_p.h"
 
 #include <qdeclarativecontext.h>
 #include <qdeclarativeengine.h>
@@ -43,8 +43,8 @@
 #include <QNetworkReply>
 #include <QFontDatabase>
 
-#include <private/qobject_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qobject_p.h>
+#include <qdeclarativeengine_p.h>
 #include <qdeclarativeinfo.h>
 
 QT_BEGIN_NAMESPACE

@@ -33,8 +33,8 @@
 #include <qtest.h>
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativespringanimation_p.h>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativespringanimation_p.h>
+#include <qdeclarativevaluetype_p.h>
 
 class tst_qdeclarativespringanimation : public QObject
 {

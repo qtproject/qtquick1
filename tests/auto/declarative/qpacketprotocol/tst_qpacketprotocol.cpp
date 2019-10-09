@@ -38,7 +38,7 @@
 #include <QDebug>
 #include <QBuffer>
 
-#include <private/qpacketprotocol_p.h>
+#include <qpacketprotocol_p.h>
 
 #include "../shared/debugutil_p.h"
 

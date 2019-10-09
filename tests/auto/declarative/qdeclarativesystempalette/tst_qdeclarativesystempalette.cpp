@@ -35,7 +35,7 @@
 #include <QDebug>
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativesystempalette_p.h>
+#include <qdeclarativesystempalette_p.h>
 #include <qpalette.h>
 #include <QApplication>
 

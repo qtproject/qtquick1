@@ -40,9 +40,9 @@
 #include <QtCore/qlibraryinfo.h>
 #include <QtCore/qalgorithms.h>
 #include <QtDeclarative/qdeclarativeextensioninterface.h>
-#include <private/qdeclarativeglobal_p.h>
-#include <private/qdeclarativetypenamecache_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeglobal_p.h>
+#include <qdeclarativetypenamecache_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <algorithm>
 

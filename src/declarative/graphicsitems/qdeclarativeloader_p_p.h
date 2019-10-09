@@ -45,10 +45,10 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeloader_p.h"
+#include "qdeclarativeloader_p.h"
 
-#include "private/qdeclarativeimplicitsizeitem_p_p.h"
-#include "private/qdeclarativeitemchangelistener_p.h"
+#include "qdeclarativeimplicitsizeitem_p_p.h"
+#include "qdeclarativeitemchangelistener_p.h"
 
 QT_BEGIN_NAMESPACE
 

@@ -32,7 +32,7 @@
 ****************************************************************************/
 
 #include <qtest.h>
-#include <private/qdeclarativecompiler_p.h>
+#include <qdeclarativecompiler_p.h>
 
 class tst_qdeclarativeinstruction : public QObject
 {

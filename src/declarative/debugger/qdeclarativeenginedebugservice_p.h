@@ -45,7 +45,7 @@
 // We mean it.
 //
 
-#include <private/qdeclarativedebugservice_p.h>
+#include <qdeclarativedebugservice_p.h>
 
 #include <QtCore/qurl.h>
 #include <QtCore/qvariant.h>

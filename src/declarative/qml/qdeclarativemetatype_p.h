@@ -50,8 +50,8 @@
 #include <QtCore/qglobal.h>
 #include <QtCore/qvariant.h>
 #include <QtCore/qbitarray.h>
-#include <private/qtdeclarativeglobal_p.h>
-#include <private/qdeclarativedirparser_p.h>
+#include <qtdeclarativeglobal_p.h>
+#include <qdeclarativedirparser_p.h>
 
 QT_BEGIN_NAMESPACE
 

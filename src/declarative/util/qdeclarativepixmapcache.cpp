@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativepixmapcache_p.h"
+#include "qdeclarativepixmapcache_p.h"
 #include "qdeclarativenetworkaccessmanagerfactory.h"
 #include "qdeclarativeimageprovider.h"
 
 #include <qdeclarativeengine.h>
-#include <private/qdeclarativeglobal_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeglobal_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <QCoreApplication>
 #include <QImageReader>
@@ -52,7 +52,7 @@
 #include <QBuffer>
 #include <QWaitCondition>
 #include <QtCore/qdebug.h>
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 #include <QSslError>
 
 #define IMAGEREQUEST_MAX_REQUEST_COUNT       8

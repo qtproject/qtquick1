@@ -31,31 +31,31 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativevisualitemmodel_p.h"
+#include "qdeclarativevisualitemmodel_p.h"
 
 #include "qdeclarativeitem.h"
 
 #include <qdeclarativecontext.h>
-#include <private/qdeclarativecontext_p.h>
+#include <qdeclarativecontext_p.h>
 #include <qdeclarativeengine.h>
 #include <qdeclarativeexpression.h>
 #include <qdeclarativepackage_p.h>
 #include <qdeclarativeopenmetaobject_p.h>
 #include <qdeclarativelistaccessor_p.h>
 #include <qdeclarativeinfo.h>
-#include <private/qdeclarativedata_p.h>
-#include <private/qdeclarativepropertycache_p.h>
-#include <private/qdeclarativeguard_p.h>
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativedata_p.h>
+#include <qdeclarativepropertycache_p.h>
+#include <qdeclarativeguard_p.h>
+#include <qdeclarativeglobal_p.h>
 
 #include <qgraphicsscene.h>
 #include <qlistmodelinterface_p.h>
 #include <qhash.h>
 #include <qlist.h>
-#include <private/qmetaobjectbuilder_p.h>
+#include <qmetaobjectbuilder_p.h>
 #include <QtCore/qdebug.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

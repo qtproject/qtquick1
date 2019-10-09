@@ -36,8 +36,8 @@
 
 #include "qdeclarativeimplicitsizeitem_p.h"
 
-#include <private/qdeclarativestate_p.h>
-#include <private/qpodvector_p.h>
+#include <qdeclarativestate_p.h>
+#include <qpodvector_p.h>
 
 #include <QtCore/QObject>
 #include <QtCore/QString>

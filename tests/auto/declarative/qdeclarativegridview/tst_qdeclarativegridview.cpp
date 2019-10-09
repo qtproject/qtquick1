@@ -38,11 +38,11 @@
 #include <QtDeclarative/qdeclarativecomponent.h>
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/private/qdeclarativeitem_p.h>
-#include <QtDeclarative/private/qlistmodelinterface_p.h>
-#include <QtDeclarative/private/qdeclarativegridview_p.h>
-#include <QtDeclarative/private/qdeclarativetext_p.h>
-#include <QtDeclarative/private/qdeclarativelistmodel_p.h>
+#include <QtDeclarative/qdeclarativeitem_p.h>
+#include <QtDeclarative/qlistmodelinterface_p.h>
+#include <QtDeclarative/qdeclarativegridview_p.h>
+#include <QtDeclarative/qdeclarativetext_p.h>
+#include <QtDeclarative/qdeclarativelistmodel_p.h>
 
 class tst_QDeclarativeGridView : public QObject
 {

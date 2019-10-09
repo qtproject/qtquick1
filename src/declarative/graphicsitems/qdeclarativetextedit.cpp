@@ -31,16 +31,16 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativetextedit_p.h"
-#include "private/qdeclarativetextedit_p_p.h"
+#include "qdeclarativetextedit_p.h"
+#include "qdeclarativetextedit_p_p.h"
 
-#include "private/qdeclarativeevents_p_p.h"
-#include <private/qdeclarativeglobal_p.h>
+#include "qdeclarativeevents_p_p.h"
+#include <qdeclarativeglobal_p.h>
 #include <qdeclarativeinfo.h>
 
 #include <QtCore/qmath.h>
 
-#include <private/qtextengine_p.h>
+#include <qtextengine_p.h>
 #include <QTextLayout>
 #include <QTextLine>
 #include <QTextDocument>
@@ -50,7 +50,7 @@
 #include <QPainter>
 #include <QtGui/QInputMethod>
 
-#include <private/qwidgettextcontrol_p.h>
+#include <qwidgettextcontrol_p.h>
 
 QT_BEGIN_NAMESPACE
 

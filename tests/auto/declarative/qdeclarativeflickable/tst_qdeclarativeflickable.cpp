@@ -35,8 +35,8 @@
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
 #include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativeflickable_p.h>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativeflickable_p.h>
+#include <qdeclarativevaluetype_p.h>
 #include <QtWidgets/qgraphicswidget.h>
 #include <QWindow>
 #include <QApplication>

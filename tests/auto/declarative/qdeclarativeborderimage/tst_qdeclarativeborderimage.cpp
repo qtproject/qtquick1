@@ -40,10 +40,10 @@
 
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativeborderimage_p.h>
-#include <private/qdeclarativeimagebase_p.h>
-#include <private/qdeclarativescalegrid_p_p.h>
-#include <private/qdeclarativeloader_p.h>
+#include <qdeclarativeborderimage_p.h>
+#include <qdeclarativeimagebase_p.h>
+#include <qdeclarativescalegrid_p_p.h>
+#include <qdeclarativeloader_p.h>
 #include <QtDeclarative/qdeclarativecontext.h>
 
 #include "../shared/testhttpserver.h"

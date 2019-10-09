@@ -45,12 +45,12 @@
 // We mean it.
 //
 
-#include "private/qdeclarativelistmodel_p.h"
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativeopenmetaobject_p.h"
+#include "qdeclarativelistmodel_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativeopenmetaobject_p.h"
 #include "qdeclarative.h"
 
-#include <private/qscriptdeclarativeclass_p.h>
+#include <qscriptdeclarativeclass_p.h>
 
 QT_BEGIN_NAMESPACE
 

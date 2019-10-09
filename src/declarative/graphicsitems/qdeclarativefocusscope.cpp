@@ -31,9 +31,9 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativefocusscope_p.h"
+#include "qdeclarativefocusscope_p.h"
 
-#include "private/qdeclarativeitem_p.h"
+#include "qdeclarativeitem_p.h"
 
 QT_BEGIN_NAMESPACE
 

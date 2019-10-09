@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeglobalscriptclass_p.h"
+#include "qdeclarativeglobalscriptclass_p.h"
 
 #include <QtCore/qstringlist.h>
 #include <QtCore/qvector.h>
@@ -39,7 +39,7 @@
 #include <QtScript/qscriptengine.h>
 #include <QtScript/qscriptvalueiterator.h>
 
-#include <private/qscriptdeclarativeclass_p.h>
+#include <qscriptdeclarativeclass_p.h>
 
 QT_BEGIN_NAMESPACE
 

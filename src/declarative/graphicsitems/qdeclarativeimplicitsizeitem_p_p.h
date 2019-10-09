@@ -45,8 +45,8 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeitem_p.h"
-#include "private/qdeclarativepainteditem_p_p.h"
+#include "qdeclarativeitem_p.h"
+#include "qdeclarativepainteditem_p_p.h"
 
 QT_BEGIN_NAMESPACE
 

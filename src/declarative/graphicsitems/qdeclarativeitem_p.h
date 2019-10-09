@@ -47,15 +47,15 @@
 
 #include "qdeclarativeitem.h"
 
-#include "private/qdeclarativeanchors_p.h"
-#include "private/qdeclarativeanchors_p_p.h"
-#include "private/qdeclarativeitemchangelistener_p.h"
-#include <private/qpodvector_p.h>
+#include "qdeclarativeanchors_p.h"
+#include "qdeclarativeanchors_p_p.h"
+#include "qdeclarativeitemchangelistener_p.h"
+#include <qpodvector_p.h>
 
-#include <private/qdeclarativestate_p.h>
-#include <private/qdeclarativenullablevalue_p_p.h>
-#include <private/qdeclarativenotifier_p.h>
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativestate_p.h>
+#include <qdeclarativenullablevalue_p_p.h>
+#include <qdeclarativenotifier_p.h>
+#include <qdeclarativeglobal_p.h>
 
 #include <qdeclarative.h>
 #include <qdeclarativecontext.h>
@@ -63,7 +63,7 @@
 #include <QtCore/qlist.h>
 #include <QtCore/qdebug.h>
 
-#include <private/qgraphicsitem_p.h>
+#include <qgraphicsitem_p.h>
 
 QT_BEGIN_NAMESPACE
 

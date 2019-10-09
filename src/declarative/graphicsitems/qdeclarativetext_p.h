@@ -37,7 +37,7 @@
 #include <QtGui/qtextoption.h>
 #include "qdeclarativeimplicitsizeitem_p.h"
 
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 

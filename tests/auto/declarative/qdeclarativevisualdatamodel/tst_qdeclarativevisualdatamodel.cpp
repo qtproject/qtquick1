@@ -38,10 +38,10 @@
 #include <QtDeclarative/qdeclarativecontext.h>
 #include <QtDeclarative/qdeclarativeexpression.h>
 #include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativelistview_p.h>
-#include <private/qdeclarativetext_p.h>
-#include <private/qdeclarativevisualitemmodel_p.h>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativelistview_p.h>
+#include <qdeclarativetext_p.h>
+#include <qdeclarativevisualitemmodel_p.h>
+#include <qdeclarativevaluetype_p.h>
 #include <math.h>
 
 static void initStandardTreeModel(QStandardItemModel *model)

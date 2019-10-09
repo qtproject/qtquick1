@@ -41,7 +41,7 @@
 #include <QtCore/qstringlist.h>
 #include <QtScript/qscriptvalue.h>
 
-#include <private/qlistmodelinterface_p.h>
+#include <qlistmodelinterface_p.h>
 
 QT_BEGIN_NAMESPACE
 

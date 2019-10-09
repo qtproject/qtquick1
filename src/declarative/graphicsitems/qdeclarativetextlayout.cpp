@@ -32,11 +32,11 @@
 ****************************************************************************/
 
 #include "qdeclarativetextlayout_p.h"
-#include <private/qstatictext_p.h>
-#include <private/qfontengine_p.h>
-#include <private/qtextengine_p.h>
-#include <private/qpainter_p.h>
-#include <private/qpaintengineex_p.h>
+#include <qstatictext_p.h>
+#include <qfontengine_p.h>
+#include <qtextengine_p.h>
+#include <qpainter_p.h>
+#include <qpaintengineex_p.h>
 
 #include <string.h>
 

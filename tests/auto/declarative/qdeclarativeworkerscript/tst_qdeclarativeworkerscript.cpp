@@ -42,8 +42,8 @@
 #include <QtDeclarative/qdeclarativeengine.h>
 #include <QtDeclarative/qdeclarativeitem.h>
 
-#include <private/qdeclarativeworkerscript_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeworkerscript_p.h>
+#include <qdeclarativeengine_p.h>
 
 Q_DECLARE_METATYPE(QScriptValue)
 

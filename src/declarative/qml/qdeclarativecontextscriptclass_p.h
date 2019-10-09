@@ -45,8 +45,8 @@
 // We mean it.
 //
 
-#include "private/qdeclarativetypenamecache_p.h"
-#include <private/qscriptdeclarativeclass_p.h>
+#include "qdeclarativetypenamecache_p.h"
+#include <qscriptdeclarativeclass_p.h>
 
 QT_BEGIN_NAMESPACE
 

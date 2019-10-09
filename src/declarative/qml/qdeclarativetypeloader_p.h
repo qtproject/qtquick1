@@ -49,9 +49,9 @@
 #include <QtNetwork/qnetworkreply.h>
 #include <QtDeclarative/qdeclarativeerror.h>
 #include <QtDeclarative/qdeclarativeengine.h>
-#include <private/qdeclarativescriptparser_p.h>
-#include <private/qdeclarativedirparser_p.h>
-#include <private/qdeclarativeimport_p.h>
+#include <qdeclarativescriptparser_p.h>
+#include <qdeclarativedirparser_p.h>
+#include <qdeclarativeimport_p.h>
 
 QT_BEGIN_NAMESPACE
 

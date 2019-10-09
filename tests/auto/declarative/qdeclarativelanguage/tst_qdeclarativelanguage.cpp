@@ -39,9 +39,9 @@
 #include <QtCore/qfileinfo.h>
 #include <QtCore/qdir.h>
 
-#include <private/qdeclarativeproperty_p.h>
-#include <private/qdeclarativemetatype_p.h>
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativeproperty_p.h>
+#include <qdeclarativemetatype_p.h>
+#include <qdeclarativeglobal_p.h>
 
 #include "testtypes.h"
 

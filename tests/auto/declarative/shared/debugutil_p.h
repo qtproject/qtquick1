@@ -39,9 +39,9 @@
 
 #include <QtDeclarative/qdeclarativeengine.h>
 
-#include <private/qdeclarativedebugclient_p.h>
-#include <private/qdeclarativedebugservice_p.h>
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativedebugclient_p.h>
+#include <qdeclarativedebugservice_p.h>
+#include <qdeclarativeitem_p.h>
 
 class QDeclarativeDebugTest
 {

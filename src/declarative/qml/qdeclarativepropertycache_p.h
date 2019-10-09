@@ -45,13 +45,13 @@
 // We mean it.
 //
 
-#include "private/qdeclarativerefcount_p.h"
-#include "private/qdeclarativecleanup_p.h"
-#include "private/qdeclarativenotifier_p.h"
+#include "qdeclarativerefcount_p.h"
+#include "qdeclarativecleanup_p.h"
+#include "qdeclarativenotifier_p.h"
 
 #include <QtCore/qvector.h>
 
-#include <QtScript/private/qscriptdeclarativeclass_p.h>
+#include <QtScript/qscriptdeclarativeclass_p.h>
 QT_BEGIN_NAMESPACE
 
 class QDeclarativeEngine;

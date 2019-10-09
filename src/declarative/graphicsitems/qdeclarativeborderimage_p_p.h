@@ -45,8 +45,8 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeimagebase_p_p.h"
-#include "private/qdeclarativescalegrid_p_p.h"
+#include "qdeclarativeimagebase_p_p.h"
+#include "qdeclarativescalegrid_p_p.h"
 
 QT_BEGIN_NAMESPACE
 

@@ -31,17 +31,17 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativedebugserver_p.h"
-#include "private/qdeclarativedebugservice_p.h"
-#include "private/qdeclarativedebugservice_p_p.h"
-#include "private/qdeclarativeengine_p.h"
+#include "qdeclarativedebugserver_p.h"
+#include "qdeclarativedebugservice_p.h"
+#include "qdeclarativedebugservice_p_p.h"
+#include "qdeclarativeengine_p.h"
 
 #include <QtCore/QDir>
 #include <QtCore/QPluginLoader>
 #include <QtCore/QStringList>
 
-#include <private/qobject_p.h>
-#include <private/qapplication_p.h>
+#include <qobject_p.h>
+#include <qapplication_p.h>
 
 QT_BEGIN_NAMESPACE
 

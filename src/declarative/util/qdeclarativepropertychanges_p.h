@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVEPROPERTYCHANGES_H
 #define QDECLARATIVEPROPERTYCHANGES_H
 
-#include "private/qdeclarativestateoperations_p.h"
-#include <private/qdeclarativecustomparser_p.h>
+#include "qdeclarativestateoperations_p.h"
+#include <qdeclarativecustomparser_p.h>
 
 QT_BEGIN_NAMESPACE
 

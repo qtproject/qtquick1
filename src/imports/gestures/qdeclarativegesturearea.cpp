@@ -37,15 +37,15 @@
 #include <qdeclarativecontext.h>
 #include <qdeclarativeinfo.h>
 
-#include <private/qdeclarativeproperty_p.h>
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativeproperty_p.h>
+#include <qdeclarativeitem_p.h>
 
 #include <QtCore/qdebug.h>
 #include <QtCore/qstringlist.h>
 
 #include <QtGui/qevent.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 #ifndef QT_NO_GESTURES
 

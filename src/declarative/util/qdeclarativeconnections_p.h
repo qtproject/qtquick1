@@ -36,7 +36,7 @@
 
 #include <qdeclarative.h>
 #include <qdeclarativescriptstring.h>
-#include <private/qdeclarativecustomparser_p.h>
+#include <qdeclarativecustomparser_p.h>
 
 #include <QtCore/qobject.h>
 #include <QtCore/qstring.h>

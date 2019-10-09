@@ -45,7 +45,7 @@
 //
 
 #include "qdeclarativeerror.h"
-#include "private/qdeclarativeparser_p.h"
+#include "qdeclarativeparser_p.h"
 
 #include <QtCore/QList>
 #include <QtCore/QUrl>

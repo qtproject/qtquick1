@@ -33,7 +33,7 @@
 
 #include <qtest.h>
 #include <qdeclarativedatatest.h>
-#include <QtDeclarative/private/qdeclarativedebugclient_p.h>
+#include <QtDeclarative/qdeclarativedebugclient_p.h>
 #include <QtCore/QFileInfo>
 #include <QtCore/QDir>
 #include <QtCore/QProcess>

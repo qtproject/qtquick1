@@ -39,9 +39,9 @@
 #include <QDeclarativeComponent>
 #include <QDir>
 #include <QCryptographicHash>
-#include <private/qabstractanimation_p.h>
+#include <qabstractanimation_p.h>
 #include <QGraphicsObject>
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativeitem_p.h>
 
 QT_BEGIN_NAMESPACE
 

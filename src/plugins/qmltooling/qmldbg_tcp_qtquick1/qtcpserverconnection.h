@@ -34,7 +34,7 @@
 #ifndef QTCPSERVERCONNECTION_H
 #define QTCPSERVERCONNECTION_H
 
-#include <QtDeclarative/private/qdeclarativedebugserverconnection_p.h>
+#include <QtDeclarative/qdeclarativedebugserverconnection_p.h>
 
 QT_BEGIN_NAMESPACE
 
