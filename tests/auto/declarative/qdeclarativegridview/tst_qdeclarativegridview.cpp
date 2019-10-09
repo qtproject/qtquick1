@@ -33,16 +33,16 @@
 
 #include <QtTest/QtTest>
 #include <QtCore/qstringlistmodel.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativeitem_p.h>
-#include <QtDeclarative/qlistmodelinterface_p.h>
-#include <QtDeclarative/qdeclarativegridview_p.h>
-#include <QtDeclarative/qdeclarativetext_p.h>
-#include <QtDeclarative/qdeclarativelistmodel_p.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeitem_p.h>
+#include <qlistmodelinterface_p.h>
+#include <qdeclarativegridview_p.h>
+#include <qdeclarativetext_p.h>
+#include <qdeclarativelistmodel_p.h>
 
 class tst_QDeclarativeGridView : public QObject
 {

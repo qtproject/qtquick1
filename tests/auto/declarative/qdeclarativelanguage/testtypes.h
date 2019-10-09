@@ -39,12 +39,12 @@
 #include <QtGui/qmatrix.h>
 #include <QtGui/qcolor.h>
 #include <QtGui/qvector3d.h>
-#include <QtDeclarative/qdeclarative.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeparserstatus.h>
-#include <QtDeclarative/qdeclarativepropertyvaluesource.h>
-#include <QtDeclarative/qdeclarativescriptstring.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarative.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeparserstatus.h>
+#include <qdeclarativepropertyvaluesource.h>
+#include <qdeclarativescriptstring.h>
+#include <qdeclarativeproperty.h>
 
 #include <qdeclarativecustomparser_p.h>
 

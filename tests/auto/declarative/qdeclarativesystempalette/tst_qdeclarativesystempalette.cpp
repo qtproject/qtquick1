@@ -33,8 +33,8 @@
 
 #include <qtest.h>
 #include <QDebug>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
 #include <qdeclarativesystempalette_p.h>
 #include <qpalette.h>
 #include <QApplication>

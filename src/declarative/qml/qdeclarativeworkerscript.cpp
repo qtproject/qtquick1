@@ -47,7 +47,7 @@
 #include <QtCore/qfile.h>
 #include <QtCore/qdatetime.h>
 #include <QtNetwork/qnetworkaccessmanager.h>
-#include <QtDeclarative/qdeclarativeinfo.h>
+#include <qdeclarativeinfo.h>
 #include "qdeclarativenetworkaccessmanagerfactory.h"
 
 

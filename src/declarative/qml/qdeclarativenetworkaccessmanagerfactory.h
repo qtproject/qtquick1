@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVENETWORKACCESSMANAGERFACTORY_H
 #define QDECLARATIVENETWORKACCESSMANAGERFACTORY_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qobject.h>
 
 QT_BEGIN_NAMESPACE

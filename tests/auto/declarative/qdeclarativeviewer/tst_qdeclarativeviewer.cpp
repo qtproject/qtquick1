@@ -32,10 +32,10 @@
 ****************************************************************************/
 
 #include <qtest.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativeitem.h>
-#include <QtDeclarative/qdeclarativecontext.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativeitem.h>
+#include <qdeclarativecontext.h>
 #include <QtWidgets/qmenubar.h>
 #include <QSignalSpy>
 #include "qmlruntime.h"

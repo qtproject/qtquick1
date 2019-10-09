@@ -38,9 +38,9 @@
 #include <QtCore/qfileinfo.h>
 #include <QtScript/qscriptengine.h>
 
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeitem.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeitem.h>
 
 #include <qdeclarativeworkerscript_p.h>
 #include <qdeclarativeengine_p.h>

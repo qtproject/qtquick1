@@ -36,7 +36,7 @@
 
 #include <QtCore/qplugin.h>
 
-#include <QtDeclarative/qdeclarativeextensioninterface.h>
+#include <qdeclarativeextensioninterface.h>
 
 QT_BEGIN_NAMESPACE
 

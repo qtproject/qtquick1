@@ -33,11 +33,11 @@
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
 #include <QStandardItemModel>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativeview.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeview.h>
 #include <qdeclarativelistview_p.h>
 #include <qdeclarativetext_p.h>
 #include <qdeclarativevisualitemmodel_p.h>

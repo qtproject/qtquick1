@@ -37,11 +37,11 @@
 #include <QDebug>
 #include <QThread>
 
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeproperty.h>
 
 #include <qdeclarativebinding_p.h>
 #include <qdeclarativeenginedebug_p.h>

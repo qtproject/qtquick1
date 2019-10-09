@@ -41,7 +41,7 @@
 #include <QtCore/QPointer>
 #include <QtCore/QPointF>
 
-#include <QtDeclarative/qdeclarativeinspectorservice_p.h>
+#include <qdeclarativeinspectorservice_p.h>
 
 namespace QmlJSDebugger {
 namespace QtQuick1 {

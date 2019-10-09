@@ -32,10 +32,10 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <qdeclarativedatatest.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
-#include <QtDeclarative/qdeclarativeproperty_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeproperty.h>
+#include <qdeclarativeproperty_p.h>
 #include <qdeclarativebinding_p.h>
 #include <QtWidgets/QLineEdit>
 #include <QtCore/qfileinfo.h>

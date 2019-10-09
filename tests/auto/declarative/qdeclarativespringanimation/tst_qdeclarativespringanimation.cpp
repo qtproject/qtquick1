@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 #include <qtest.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
 #include <qdeclarativespringanimation_p.h>
 #include <qdeclarativevaluetype_p.h>
 

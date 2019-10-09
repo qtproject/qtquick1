@@ -32,10 +32,10 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativeitem.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativeitem.h>
 #include <QtWidgets/qgraphicswidget.h>
 
 class tst_QDeclarativeView : public QObject

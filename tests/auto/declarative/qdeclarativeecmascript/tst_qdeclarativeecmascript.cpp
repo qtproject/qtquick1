@@ -32,13 +32,13 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <qdeclarativedatatest.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativecontext.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativecontext.h>
 #include <QtCore/qfileinfo.h>
 #include <QtCore/qdebug.h>
-#include <QtDeclarative/qdeclarativeguard_p.h>
+#include <qdeclarativeguard_p.h>
 #include <QtCore/qdir.h>
 #include <QtCore/qnumeric.h>
 #include <qdeclarativeengine_p.h>

@@ -39,7 +39,7 @@
 #include <QtCore/qpluginloader.h>
 #include <QtCore/qlibraryinfo.h>
 #include <QtCore/qalgorithms.h>
-#include <QtDeclarative/qdeclarativeextensioninterface.h>
+#include <qdeclarativeextensioninterface.h>
 #include <qdeclarativeglobal_p.h>
 #include <qdeclarativetypenamecache_p.h>
 #include <qdeclarativeengine_p.h>

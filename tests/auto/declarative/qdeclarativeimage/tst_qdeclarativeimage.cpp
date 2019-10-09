@@ -36,14 +36,14 @@
 #include <QTcpSocket>
 #include <QDir>
 
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeview.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeview.h>
 #include <qdeclarativeimage_p.h>
 #include <qdeclarativeimagebase_p.h>
 #include <qdeclarativeloader_p.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
 #include <QtTest/QSignalSpy>
 #include <QtGui/qimagereader.h>
 

@@ -35,10 +35,10 @@
 #include <QtTest/QtTest>
 #include <QtTest/QSignalSpy>
 #include <qlistmodelinterface_p.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
 #include <qdeclarativerepeater_p.h>
 #include <qdeclarativetext_p.h>
 

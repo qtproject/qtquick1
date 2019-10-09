@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 #include <QStringList>
-#include <QtDeclarative/qdeclarativeextensionplugin.h>
-#include <QtDeclarative/qdeclarative.h>
+#include <qdeclarativeextensionplugin.h>
+#include <qdeclarative.h>
 #include <QDebug>
 
 // Note: this plugin is unused!

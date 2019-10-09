@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEPROPERTYVALUESOURCE_H
 #define QDECLARATIVEPROPERTYVALUESOURCE_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qobject.h>
 
 QT_BEGIN_NAMESPACE

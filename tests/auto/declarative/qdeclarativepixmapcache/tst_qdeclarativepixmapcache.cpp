@@ -33,8 +33,8 @@
 #include <qtest.h>
 #include <QtTest/QtTest>
 #include <qdeclarativepixmapcache_p.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeimageprovider.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeimageprovider.h>
 #include <QNetworkReply>
 #include "testhttpserver.h"
 

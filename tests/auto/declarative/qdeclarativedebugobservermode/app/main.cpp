@@ -36,7 +36,7 @@
 #include <QDeclarativeComponent>
 #include <QDeclarativeEngine>
 #include <QStringList>
-#include <QtDeclarative/qdeclarativedebugservice_p.h>
+#include <qdeclarativedebugservice_p.h>
 
 #include "mainwindow.h"
 

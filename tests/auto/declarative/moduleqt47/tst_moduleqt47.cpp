@@ -32,8 +32,8 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <QDir>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
 
 class tst_moduleqt47 : public QObject
 {

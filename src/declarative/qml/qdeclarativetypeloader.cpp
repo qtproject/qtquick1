@@ -39,7 +39,7 @@
 #include <qdeclarativeglobal_p.h>
 #include <qdeclarativedebugtrace_p.h>
 
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarativecomponent.h>
 #include <QtCore/qdebug.h>
 #include <QtCore/qdir.h>
 #include <QtCore/qdiriterator.h>

@@ -37,7 +37,7 @@
 #include <QThread>
 #include <QTest>
 
-#include <QtDeclarative/qdeclarativeengine.h>
+#include <qdeclarativeengine.h>
 
 #include <qdeclarativedebugclient_p.h>
 #include <qdeclarativedebugservice_p.h>

@@ -36,7 +36,7 @@
 
 #include "qdeclarativecompiledbindings_p.h"
 
-#include <QtDeclarative/qdeclarativeinfo.h>
+#include <qdeclarativeinfo.h>
 #include <qdeclarativecontext_p.h>
 #include <qdeclarativejsast_p.h>
 #include <qdeclarativejsengine_p.h>

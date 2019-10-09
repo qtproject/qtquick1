@@ -37,7 +37,7 @@
 #include <QtCore/qdatastream.h>
 #include <QtCore/qdebug.h>
 #include <QtCore/qstringlist.h>
-#include <QtDeclarative/qdeclarativeengine.h>
+#include <qdeclarativeengine.h>
 
 Q_GLOBAL_STATIC(QJSDebugService, serviceInstance)
 

@@ -35,7 +35,7 @@
 #include "shadereffectitem.h"
 #include "shadereffectsource.h"
 
-#include <QtDeclarative/qdeclarative.h>
+#include <qdeclarative.h>
 
 void qmlshaderspluginPlugin::registerTypes(const char *uri)
 {

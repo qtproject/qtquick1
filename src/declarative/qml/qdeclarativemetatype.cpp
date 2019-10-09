@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include <QtDeclarative/qdeclarativeprivate.h>
+#include <qdeclarativeprivate.h>
 #include "qdeclarativemetatype_p.h"
 
 #include "qdeclarativeproxymetaobject_p.h"

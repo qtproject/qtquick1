@@ -35,7 +35,7 @@
 #define QDECLARATIVEGRAPHICSWIDGET_P_H
 
 #include <QObject>
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarativecomponent.h>
 
 QT_BEGIN_NAMESPACE
 

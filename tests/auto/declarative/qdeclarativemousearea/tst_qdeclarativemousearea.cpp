@@ -37,10 +37,10 @@
 #include <qdeclarativemousearea_p.h>
 #include <qdeclarativerectangle_p.h>
 #include <qdeclarativeflickable_p.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativeproperty.h>
 
 class tst_QDeclarativeMouseArea: public QObject
 {

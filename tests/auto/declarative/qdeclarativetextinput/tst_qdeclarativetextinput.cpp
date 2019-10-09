@@ -32,9 +32,9 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
-#include <QtDeclarative/qdeclarativeengine.h>
+#include <qdeclarativeengine.h>
 #include <QFile>
-#include <QtDeclarative/qdeclarativeview.h>
+#include <qdeclarativeview.h>
 #include <qdeclarativetextinput_p.h>
 #include <qdeclarativetextinput_p_p.h>
 #include <QDebug>
