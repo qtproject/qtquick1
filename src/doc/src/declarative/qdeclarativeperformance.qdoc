@@ -132,9 +132,9 @@ performance for all use-cases, it typically has \b{consistently good} performanc
 all use-cases. In contrast, only using the raster paint engine may result in very good
 performance for parts of your application and very poor performance elsewhere.
 
-The QML Viewer uses the raster graphics system by default for X11 and \macos. It also
+The QML Viewer uses the raster graphics system by default for X11 and OS X. It also
 includes a \c -opengl command line option which sets a QGLWidget as the viewport of the
-view. On \macos, a QGLWidget is always used.
+view. On OS X, a QGLWidget is always used.
 
 You can also prevent QDeclarativeView from painting its window background if
 you will provide the background of your application using QML, e.g.
