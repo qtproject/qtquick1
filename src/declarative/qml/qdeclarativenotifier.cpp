@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativenotifier_p.h"
-#include "private/qdeclarativeproperty_p.h"
+#include "qdeclarativenotifier_p.h"
+#include "qdeclarativeproperty_p.h"
 
 QT_BEGIN_NAMESPACE
 

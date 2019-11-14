@@ -30,7 +30,7 @@
 ** $QT_END_LICENSE$
 **
 ****************************************************************************/
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <qtest.h>
 #include <qdeclarativedatatest.h>

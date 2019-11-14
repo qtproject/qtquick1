@@ -32,12 +32,12 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativerectangle_p.h>
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativerectangle_p.h>
+#include <qdeclarativeitem_p.h>
 
 class tst_QDeclarativeItem : public QObject
 

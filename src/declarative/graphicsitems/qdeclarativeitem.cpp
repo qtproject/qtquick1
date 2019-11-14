@@ -33,10 +33,10 @@
 
 #include "qdeclarativeitem.h"
 
-#include "private/qdeclarativeevents_p_p.h"
-#include <private/qdeclarativeengine_p.h>
-#include <private/qgraphicsitem_p.h>
-#include <QtDeclarative/private/qdeclarativeitem_p.h>
+#include "qdeclarativeevents_p_p.h"
+#include <qdeclarativeengine_p.h>
+#include <qgraphicsitem_p.h>
+#include <qdeclarativeitem_p.h>
 
 #include <qdeclarativeengine.h>
 #include <qdeclarativeopenmetaobject_p.h>

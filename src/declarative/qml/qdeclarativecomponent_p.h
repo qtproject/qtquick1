@@ -47,9 +47,9 @@
 
 #include "qdeclarativecomponent.h"
 
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativetypeloader_p.h"
-#include "private/qbitfield_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativetypeloader_p.h"
+#include "qbitfield_p.h"
 #include "qdeclarativeerror.h"
 #include "qdeclarative.h"
 
@@ -57,7 +57,7 @@
 #include <QtCore/QStringList>
 #include <QtCore/QList>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

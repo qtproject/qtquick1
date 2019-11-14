@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVETEXTEDIT_H
 #define QDECLARATIVETEXTEDIT_H
 
-#include "private/qdeclarativetext_p.h"
-#include "private/qdeclarativeimplicitsizeitem_p.h"
+#include "qdeclarativetext_p.h"
+#include "qdeclarativeimplicitsizeitem_p.h"
 
 #include <QtGui/qtextdocument.h>
 #include <QtGui/qtextoption.h>

@@ -45,8 +45,8 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeimplicitsizeitem_p_p.h"
-#include "private/qdeclarativepixmapcache_p.h"
+#include "qdeclarativeimplicitsizeitem_p_p.h"
+#include "qdeclarativepixmapcache_p.h"
 
 #include <QtCore/QPointer>
 

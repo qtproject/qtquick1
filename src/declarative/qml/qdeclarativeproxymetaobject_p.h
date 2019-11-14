@@ -45,13 +45,13 @@
 // We mean it.
 //
 
-#include "private/qmetaobjectbuilder_p.h"
+#include "qmetaobjectbuilder_p.h"
 #include "qdeclarative.h"
 
 #include <QtCore/QMetaObject>
 #include <QtCore/QObject>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

@@ -44,7 +44,7 @@
 #include <qdeclarativenetworkaccessmanagerfactory.h>
 #include "qdeclarative.h"
 #include <QAbstractAnimation>
-#include <private/qabstractanimation_p.h>
+#include <qabstractanimation_p.h>
 
 #include <QSettings>
 #include <QXmlStreamReader>

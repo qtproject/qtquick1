@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativexmllistmodel_p.h"
+#include "qdeclarativexmllistmodel_p.h"
 
 #include <qdeclarativecontext.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <QDebug>
 #include <QStringList>
@@ -50,7 +50,7 @@
 #include <QTimer>
 #include <QMutex>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 Q_DECLARE_METATYPE(QDeclarativeXmlQueryResult)
 

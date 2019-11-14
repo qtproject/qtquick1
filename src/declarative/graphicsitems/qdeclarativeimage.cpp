@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeimage_p.h"
-#include "private/qdeclarativeimage_p_p.h"
+#include "qdeclarativeimage_p.h"
+#include "qdeclarativeimage_p_p.h"
 
 #include <QKeyEvent>
 #include <QPainter>

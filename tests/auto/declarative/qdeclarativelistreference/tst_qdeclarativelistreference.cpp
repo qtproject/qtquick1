@@ -38,9 +38,9 @@
 #include <QDir>
 #include <QDeclarativeEngine>
 #include <QDeclarativeComponent>
-#include <QtDeclarative/qdeclarative.h>
-#include <QtDeclarative/qdeclarativeprivate.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarative.h>
+#include <qdeclarativeprivate.h>
+#include <qdeclarativeproperty.h>
 #include <QDebug>
 
 class tst_qdeclarativelistreference : public QDeclarativeDataTest

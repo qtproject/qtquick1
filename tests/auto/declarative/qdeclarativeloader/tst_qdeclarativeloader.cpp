@@ -36,9 +36,9 @@
 #include <QtWidgets/QGraphicsScene>
 
 #include <QSignalSpy>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativeloader_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeloader_p.h>
 #include "testhttpserver.h"
 
 #define SERVER_PORT 14450

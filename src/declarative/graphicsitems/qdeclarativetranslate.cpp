@@ -31,8 +31,8 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativetranslate_p.h"
-#include <private/qgraphicstransform_p.h>
+#include "qdeclarativetranslate_p.h"
+#include <qgraphicstransform_p.h>
 #include <QDebug>
 #include <QtCore/qmath.h>
 

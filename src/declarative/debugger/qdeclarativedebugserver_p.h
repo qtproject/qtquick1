@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVEDEBUGSERVER_H
 #define QDECLARATIVEDEBUGSERVER_H
 
-#include <private/qdeclarativeglobal_p.h>
-#include <private/qdeclarativedebugserverconnection_p.h>
+#include <qdeclarativeglobal_p.h>
+#include <qdeclarativedebugserverconnection_p.h>
 
 QT_BEGIN_NAMESPACE
 

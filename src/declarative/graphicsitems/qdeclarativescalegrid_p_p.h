@@ -39,9 +39,9 @@
 #include <QtCore/QString>
 #include <QtCore/QObject>
 
-#include <private/qdeclarativeborderimage_p.h>
-#include <private/qdeclarativepixmapcache_p.h>
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativeborderimage_p.h>
+#include <qdeclarativepixmapcache_p.h>
+#include <qdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 

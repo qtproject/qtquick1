@@ -34,20 +34,20 @@
 // #define COMPILEDBINDINGS_DEBUG
 // #define REGISTER_CLEANUP_DEBUG
 
-#include "private/qdeclarativecompiledbindings_p.h"
+#include "qdeclarativecompiledbindings_p.h"
 
-#include <QtDeclarative/qdeclarativeinfo.h>
-#include <private/qdeclarativecontext_p.h>
-#include <private/qdeclarativejsast_p.h>
-#include <private/qdeclarativejsengine_p.h>
-#include <private/qdeclarativeexpression_p.h>
+#include <qdeclarativeinfo.h>
+#include <qdeclarativecontext_p.h>
+#include <qdeclarativejsast_p.h>
+#include <qdeclarativejsengine_p.h>
+#include <qdeclarativeexpression_p.h>
 #include <QtCore/qcoreapplication.h>
 #include <QtCore/qdebug.h>
 #include <QtCore/qnumeric.h>
-#include <private/qdeclarativeanchors_p_p.h>
-#include <private/qdeclarativeglobal_p.h>
-#include <private/qdeclarativefastproperties_p.h>
-#include <private/qdeclarativedebugtrace_p.h>
+#include <qdeclarativeanchors_p_p.h>
+#include <qdeclarativeglobal_p.h>
+#include <qdeclarativefastproperties_p.h>
+#include <qdeclarativedebugtrace_p.h>
 
 QT_BEGIN_NAMESPACE
 

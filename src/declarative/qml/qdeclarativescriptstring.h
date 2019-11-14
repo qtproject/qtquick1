@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVESCRIPTSTRING_H
 #define QDECLARATIVESCRIPTSTRING_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qstring.h>
 #include <QtCore/qshareddata.h>
 #include <QtCore/qmetatype.h>

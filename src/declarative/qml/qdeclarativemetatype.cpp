@@ -31,15 +31,15 @@
 **
 ****************************************************************************/
 
-#include <QtDeclarative/qdeclarativeprivate.h>
-#include "private/qdeclarativemetatype_p.h"
+#include <qdeclarativeprivate.h>
+#include "qdeclarativemetatype_p.h"
 
-#include "private/qdeclarativeproxymetaobject_p.h"
-#include "private/qdeclarativecustomparser_p.h"
-#include "private/qdeclarativeguard_p.h"
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativeitemsmodule_p.h"
-#include "private/qdeclarativeutilmodule_p.h"
+#include "qdeclarativeproxymetaobject_p.h"
+#include "qdeclarativecustomparser_p.h"
+#include "qdeclarativeguard_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativeitemsmodule_p.h"
+#include "qdeclarativeutilmodule_p.h"
 
 #include <QtCore/qdebug.h>
 #include <QtCore/qstringlist.h>

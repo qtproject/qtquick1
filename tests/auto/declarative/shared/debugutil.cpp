@@ -34,8 +34,8 @@
 #include <QEventLoop>
 #include <QTimer>
 
-#include <private/qdeclarativedebugclient_p.h>
-#include <private/qdeclarativedebugservice_p.h>
+#include <qdeclarativedebugclient_p.h>
+#include <qdeclarativedebugservice_p.h>
 
 #include "debugutil_p.h"
 

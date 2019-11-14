@@ -33,15 +33,15 @@
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
 #include <QStandardItemModel>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativelistview_p.h>
-#include <private/qdeclarativetext_p.h>
-#include <private/qdeclarativevisualitemmodel_p.h>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativelistview_p.h>
+#include <qdeclarativetext_p.h>
+#include <qdeclarativevisualitemmodel_p.h>
+#include <qdeclarativevaluetype_p.h>
 #include <math.h>
 
 static void initStandardTreeModel(QStandardItemModel *model)

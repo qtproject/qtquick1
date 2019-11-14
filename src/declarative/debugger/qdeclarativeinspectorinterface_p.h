@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEOBSERVERINTERFACE_H
 #define QDECLARATIVEOBSERVERINTERFACE_H
 
-#include <QtDeclarative/private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 

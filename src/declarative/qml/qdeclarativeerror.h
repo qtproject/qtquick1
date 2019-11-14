@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEERROR_H
 #define QDECLARATIVEERROR_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qurl.h>
 #include <QtCore/qstring.h>
 

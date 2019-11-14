@@ -31,11 +31,11 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativesystempalette_p.h"
+#include "qdeclarativesystempalette_p.h"
 
 #include <QApplication>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

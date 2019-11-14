@@ -39,7 +39,7 @@
 #include <QtWidgets/qgraphicssceneevent.h>
 #include <QtWidgets/qgraphicsview.h>
 #include <QtWidgets/qwidget.h>
-#include <QtDeclarative/qdeclarativedebug.h>
+#include <qdeclarativedebug.h>
 
 QT_BEGIN_NAMESPACE
 

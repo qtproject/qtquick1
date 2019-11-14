@@ -39,10 +39,10 @@
 #include <QtCore/qpluginloader.h>
 #include <QtCore/qlibraryinfo.h>
 #include <QtCore/qalgorithms.h>
-#include <QtDeclarative/qdeclarativeextensioninterface.h>
-#include <private/qdeclarativeglobal_p.h>
-#include <private/qdeclarativetypenamecache_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeextensioninterface.h>
+#include <qdeclarativeglobal_p.h>
+#include <qdeclarativetypenamecache_p.h>
+#include <qdeclarativeengine_p.h>
 
 #include <algorithm>
 
@@ -840,7 +840,7 @@ QString QDeclarativeImportDatabase::resolvePlugin(const QDir &qmldirPath, const 
   \row \li Unix/Linux  \li \c .so
   \row \li AIX  \li \c .a
   \row \li HP-UX       \li \c .sl, \c .so (HP-UXi)
-  \row \li \macos    \li \c .dylib, \c .bundle, \c .so
+  \row \li OS X    \li \c .dylib, \c .bundle, \c .so
   \endtable
 
   Version number on unix are ignored.

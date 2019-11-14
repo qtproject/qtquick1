@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/textwriter_p.h"
+#include "textwriter_p.h"
 
 QT_QML_BEGIN_NAMESPACE
 

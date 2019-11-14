@@ -45,7 +45,7 @@
 // We mean it.
 //
 
-#include "private/qdeclarativeimage_p_p.h"
+#include "qdeclarativeimage_p_p.h"
 
 #ifndef QT_NO_MOVIE
 

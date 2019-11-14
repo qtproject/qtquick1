@@ -31,16 +31,16 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativecompiler_p.h"
+#include "qdeclarativecompiler_p.h"
 #include "qdeclarativeengine.h"
 #include "qdeclarativecomponent.h"
-#include "private/qdeclarativecomponent_p.h"
+#include "qdeclarativecomponent_p.h"
 #include "qdeclarativecontext.h"
-#include "private/qdeclarativecontext_p.h"
+#include "qdeclarativecontext_p.h"
 
 #include <QtCore/qdebug.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEPARTICLES_H
 #define QDECLARATIVEPARTICLES_H
 
-#include <QtDeclarative/qdeclarativeitem.h>
+#include <qdeclarativeitem.h>
 
 QT_BEGIN_NAMESPACE
 

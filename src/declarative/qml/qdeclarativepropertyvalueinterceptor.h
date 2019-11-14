@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEPROPERTYVALUEINTERCEPTOR_H
 #define QDECLARATIVEPROPERTYVALUEINTERCEPTOR_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qobject.h>
 
 QT_BEGIN_NAMESPACE

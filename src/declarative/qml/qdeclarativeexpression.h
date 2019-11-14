@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEEXPRESSION_H
 #define QDECLARATIVEEXPRESSION_H
 
-#include <QtDeclarative/qdeclarativeerror.h>
+#include <qdeclarativeerror.h>
 
 #include <QtCore/qobject.h>
 #include <QtCore/qvariant.h>

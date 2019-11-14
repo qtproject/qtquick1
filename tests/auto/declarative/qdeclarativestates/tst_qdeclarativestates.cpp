@@ -31,15 +31,15 @@
 **
 ****************************************************************************/
 #include <qtest.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativeanchors_p_p.h>
-#include <private/qdeclarativerectangle_p.h>
-#include <private/qdeclarativeimage_p.h>
-#include <private/qdeclarativepropertychanges_p.h>
-#include <private/qdeclarativestategroup_p.h>
-#include <private/qdeclarativeitem_p.h>
-#include <private/qdeclarativeproperty_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeanchors_p_p.h>
+#include <qdeclarativerectangle_p.h>
+#include <qdeclarativeimage_p.h>
+#include <qdeclarativepropertychanges_p.h>
+#include <qdeclarativestategroup_p.h>
+#include <qdeclarativeitem_p.h>
+#include <qdeclarativeproperty_p.h>
 
 class MyAttached : public QObject
 {

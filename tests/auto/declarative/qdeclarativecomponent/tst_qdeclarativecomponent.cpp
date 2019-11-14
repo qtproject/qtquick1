@@ -34,10 +34,10 @@
 #include <QDebug>
 
 #include <QtWidgets/qgraphicsitem.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeitem.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeitem.h>
+#include <qdeclarativeproperty.h>
 #include <qcolor.h>
 
 class tst_qdeclarativecomponent : public QObject

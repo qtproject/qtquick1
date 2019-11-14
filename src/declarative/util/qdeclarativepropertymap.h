@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEPROPERTYMAP_H
 #define QDECLARATIVEPROPERTYMAP_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/QObject>
 #include <QtCore/QHash>
 #include <QtCore/QStringList>

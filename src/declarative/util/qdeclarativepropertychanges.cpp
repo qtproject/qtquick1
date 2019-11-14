@@ -31,27 +31,27 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativepropertychanges_p.h"
+#include "qdeclarativepropertychanges_p.h"
 
-#include "private/qdeclarativeopenmetaobject_p.h"
-#include "private/qdeclarativerewrite_p.h"
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativecompiler_p.h"
+#include "qdeclarativeopenmetaobject_p.h"
+#include "qdeclarativerewrite_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativecompiler_p.h"
 
 #include <qdeclarativeinfo.h>
-#include <private/qdeclarativecustomparser_p.h>
-#include <private/qdeclarativeparser_p.h>
+#include <qdeclarativecustomparser_p.h>
+#include <qdeclarativeparser_p.h>
 #include <qdeclarativeexpression.h>
-#include <private/qdeclarativebinding_p.h>
+#include <qdeclarativebinding_p.h>
 #include <qdeclarativecontext.h>
-#include <private/qdeclarativeguard_p.h>
-#include <private/qdeclarativeproperty_p.h>
-#include <private/qdeclarativecontext_p.h>
+#include <qdeclarativeguard_p.h>
+#include <qdeclarativeproperty_p.h>
+#include <qdeclarativecontext_p.h>
 #include <qdeclarativestate_p_p.h>
 
 #include <QtCore/qdebug.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

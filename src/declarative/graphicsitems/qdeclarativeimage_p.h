@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEIMAGE_H
 #define QDECLARATIVEIMAGE_H
 
-#include "private/qdeclarativeimagebase_p.h"
+#include "qdeclarativeimagebase_p.h"
 
 #include <QtNetwork/qnetworkreply.h>
 

@@ -37,8 +37,8 @@
 #include <QtNetwork/qtcpserver.h>
 #include <QtNetwork/qtcpsocket.h>
 
-#include <private/qdeclarativedebugserver_p.h>
-#include <private/qpacketprotocol_p.h>
+#include <qdeclarativedebugserver_p.h>
+#include <qpacketprotocol_p.h>
 
 QT_BEGIN_NAMESPACE
 

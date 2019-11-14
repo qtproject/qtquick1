@@ -31,9 +31,9 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativefastproperties_p.h"
+#include "qdeclarativefastproperties_p.h"
 
-#include <private/qdeclarativeitem_p.h>
+#include <qdeclarativeitem_p.h>
 
 QT_BEGIN_NAMESPACE
 

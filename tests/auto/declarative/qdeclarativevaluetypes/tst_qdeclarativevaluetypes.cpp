@@ -35,7 +35,7 @@
 #include <QDeclarativeEngine>
 #include <QDeclarativeComponent>
 #include <QDebug>
-#include <private/qdeclarativevaluetype_p.h>
+#include <qdeclarativevaluetype_p.h>
 #include "testtypes.h"
 #include <qdeclarativedatatest.h>
 

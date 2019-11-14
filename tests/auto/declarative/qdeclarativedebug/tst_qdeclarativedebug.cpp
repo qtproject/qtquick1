@@ -37,19 +37,19 @@
 #include <QDebug>
 #include <QThread>
 
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativeproperty.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeproperty.h>
 
-#include <private/qdeclarativebinding_p.h>
-#include <private/qdeclarativeenginedebug_p.h>
-#include <private/qdeclarativedebugclient_p.h>
-#include <private/qdeclarativedebugservice_p.h>
-#include <private/qdeclarativerectangle_p.h>
-#include <private/qdeclarativemetatype_p.h>
-#include <private/qdeclarativeproperty_p.h>
+#include <qdeclarativebinding_p.h>
+#include <qdeclarativeenginedebug_p.h>
+#include <qdeclarativedebugclient_p.h>
+#include <qdeclarativedebugservice_p.h>
+#include <qdeclarativerectangle_p.h>
+#include <qdeclarativemetatype_p.h>
+#include <qdeclarativeproperty_p.h>
 
 #include "../shared/debugutil_p.h"
 

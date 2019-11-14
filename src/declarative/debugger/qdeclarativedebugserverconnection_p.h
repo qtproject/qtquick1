@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEDEBUGSERVERCONNECTION_H
 #define QDECLARATIVEDEBUGSERVERCONNECTION_H
 
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 #include <QtCore/qobject.h>
 
 //

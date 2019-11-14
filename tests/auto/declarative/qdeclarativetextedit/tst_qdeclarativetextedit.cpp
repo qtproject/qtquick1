@@ -37,21 +37,21 @@
 #include <math.h>
 #include <QFile>
 #include <QTextDocument>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativetextedit_p.h>
-#include <private/qdeclarativetextedit_p_p.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativetextedit_p.h>
+#include <qdeclarativetextedit_p_p.h>
 #include <QFontMetrics>
-#include <QtDeclarative/QDeclarativeView>
+#include <QDeclarativeView>
 #include <QDir>
 #include <QStyle>
 #include <QClipboard>
 #include <QMimeData>
-#include <private/qapplication_p.h>
-#include <private/qinputmethod_p.h>
-#include <private/qwidgettextcontrol_p.h>
+#include <qapplication_p.h>
+#include <qinputmethod_p.h>
+#include <qwidgettextcontrol_p.h>
 #include "../shared/platforminputcontext.h"
 
 Q_DECLARE_METATYPE(QDeclarativeTextEdit::SelectionMode)

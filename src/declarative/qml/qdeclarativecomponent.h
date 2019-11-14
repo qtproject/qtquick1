@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVECOMPONENT_H
 #define QDECLARATIVECOMPONENT_H
 
-#include <QtDeclarative/qdeclarative.h>
-#include <QtDeclarative/qdeclarativeerror.h>
+#include <qdeclarative.h>
+#include <qdeclarativeerror.h>
 
 #include <QtCore/qobject.h>
 #include <QtCore/qstring.h>

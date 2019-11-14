@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEDEBUG_H
 #define QDECLARATIVEDEBUG_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 
 QT_BEGIN_NAMESPACE
 

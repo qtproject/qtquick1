@@ -39,7 +39,7 @@
 ****************************************************************************/
 
 #include <QtDeclarative/QDeclarativeExtensionPlugin>
-#include <QtDeclarative/qdeclarative.h>
+#include <qdeclarative.h>
 #include <qdebug.h>
 #include <qdatetime.h>
 #include <qbasictimer.h>

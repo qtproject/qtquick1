@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qjsdebugservice_p.h"
-#include "private/qjsdebuggeragent_p.h"
+#include "qjsdebugservice_p.h"
+#include "qjsdebuggeragent_p.h"
 
 #include <QtCore/qdatastream.h>
 #include <QtCore/qdebug.h>
 #include <QtCore/qstringlist.h>
-#include <QtDeclarative/qdeclarativeengine.h>
+#include <qdeclarativeengine.h>
 
 Q_GLOBAL_STATIC(QJSDebugService, serviceInstance)
 

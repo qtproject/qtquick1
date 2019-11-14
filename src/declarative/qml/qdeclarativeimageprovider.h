@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEIMAGEPROVIDER_H
 #define QDECLARATIVEIMAGEPROVIDER_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtGui/qimage.h>
 #include <QtGui/qpixmap.h>
 

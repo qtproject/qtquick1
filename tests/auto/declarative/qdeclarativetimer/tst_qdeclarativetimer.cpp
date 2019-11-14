@@ -32,13 +32,13 @@
 ****************************************************************************/
 #include <QtTest/QSignalSpy>
 #include <qtest.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
-#include <private/qdeclarativetimer_p.h>
-#include <QtDeclarative/qdeclarativeitem.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecomponent.h>
+#include <qdeclarativetimer_p.h>
+#include <qdeclarativeitem.h>
 #include <QDebug>
 #include <QtCore/QPauseAnimation>
-#include <private/qabstractanimation_p.h>
+#include <qabstractanimation_p.h>
 
 void consistentWait(int ms)
 {

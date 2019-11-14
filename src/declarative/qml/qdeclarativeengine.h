@@ -38,8 +38,8 @@
 #include <QtCore/qobject.h>
 #include <QtCore/qmap.h>
 #include <QtScript/qscriptvalue.h>
-#include <QtDeclarative/qdeclarativeerror.h>
-#include <QtDeclarative/qdeclarativedebug.h>
+#include <qdeclarativeerror.h>
+#include <qdeclarativedebug.h>
 
 QT_BEGIN_NAMESPACE
 

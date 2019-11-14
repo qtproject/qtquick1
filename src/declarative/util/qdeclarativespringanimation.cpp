@@ -31,14 +31,14 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativespringanimation_p.h"
+#include "qdeclarativespringanimation_p.h"
 
-#include "private/qdeclarativeanimation_p_p.h"
-#include <private/qdeclarativeproperty_p.h>
+#include "qdeclarativeanimation_p_p.h"
+#include <qdeclarativeproperty_p.h>
 
 #include <QtCore/qdebug.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 #include <limits.h>
 #include <math.h>

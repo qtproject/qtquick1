@@ -35,7 +35,7 @@
 #define QDECLARATIVEINSPECTORPLUGIN_H
 
 #include <QtCore/QPointer>
-#include <QtDeclarative/private/qdeclarativeinspectorinterface_p.h>
+#include <qdeclarativeinspectorinterface_p.h>
 
 namespace QmlJSDebugger {
 

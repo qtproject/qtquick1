@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVECONTEXT_H
 #define QDECLARATIVECONTEXT_H
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qurl.h>
 #include <QtCore/qobject.h>
 #include <QtScript/qscriptvalue.h>

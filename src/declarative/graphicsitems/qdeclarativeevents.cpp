@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeevents_p_p.h"
+#include "qdeclarativeevents_p_p.h"
 
 QT_BEGIN_NAMESPACE
 /*!

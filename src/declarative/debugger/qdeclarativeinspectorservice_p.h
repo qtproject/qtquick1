@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVEOBSERVERSERVICE_H
 #define QDECLARATIVEOBSERVERSERVICE_H
 
-#include "private/qdeclarativedebugservice_p.h"
-#include <private/qdeclarativeglobal_p.h>
+#include "qdeclarativedebugservice_p.h"
+#include <qdeclarativeglobal_p.h>
 
 #include <QtCore/QList>
 

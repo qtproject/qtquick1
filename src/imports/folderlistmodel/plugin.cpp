@@ -38,8 +38,8 @@
 **
 ****************************************************************************/
 
-#include <QtDeclarative/qdeclarativeextensionplugin.h>
-#include <QtDeclarative/qdeclarative.h>
+#include <qdeclarativeextensionplugin.h>
+#include <qdeclarative.h>
 
 #include "qdeclarativefolderlistmodel.h"
 

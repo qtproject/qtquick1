@@ -31,7 +31,7 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativerefcount_p.h"
+#include "qdeclarativerefcount_p.h"
 
 QT_BEGIN_NAMESPACE
 

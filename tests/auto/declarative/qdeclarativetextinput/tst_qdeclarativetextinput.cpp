@@ -32,17 +32,17 @@
 ****************************************************************************/
 #include <qtest.h>
 #include <QtTest/QSignalSpy>
-#include <QtDeclarative/qdeclarativeengine.h>
+#include <qdeclarativeengine.h>
 #include <QFile>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <private/qdeclarativetextinput_p.h>
-#include <private/qdeclarativetextinput_p_p.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativetextinput_p.h>
+#include <qdeclarativetextinput_p_p.h>
 #include <QDebug>
 #include <QDir>
 #include <QStyle>
-#include <private/qapplication_p.h>
-#include <private/qinputmethod_p.h>
-#include <private/qwidgetlinecontrol_p.h>
+#include <qapplication_p.h>
+#include <qinputmethod_p.h>
+#include <qwidgetlinecontrol_p.h>
 #include "../shared/platforminputcontext.h"
 
 #include "qplatformdefs.h"

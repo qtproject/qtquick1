@@ -38,8 +38,8 @@
 
 #include <QtDeclarative/QDeclarativeEngine>
 #include <QtDeclarative/QDeclarativeComponent>
-#include <QtCore/private/qabstractanimation_p.h>
-#include <QtDeclarative/private/qdeclarativeinspectorservice_p.h>
+#include <QtCore/qabstractanimation_p.h>
+#include <qdeclarativeinspectorservice_p.h>
 
 #include <QtGui/QMouseEvent>
 

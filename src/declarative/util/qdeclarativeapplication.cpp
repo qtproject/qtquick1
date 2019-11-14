@@ -32,7 +32,7 @@
 ****************************************************************************/
 
 #include "qdeclarativeapplication_p.h"
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 #include <QtWidgets/QApplication>
 
 QT_BEGIN_NAMESPACE

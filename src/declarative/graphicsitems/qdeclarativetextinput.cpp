@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativetextinput_p.h"
-#include "private/qdeclarativetextinput_p_p.h"
+#include "qdeclarativetextinput_p.h"
+#include "qdeclarativetextinput_p_p.h"
 
-#include <private/qdeclarativeglobal_p.h>
+#include <qdeclarativeglobal_p.h>
 #include <qdeclarativeinfo.h>
 
 #include <QValidator>
@@ -68,7 +68,7 @@ QT_BEGIN_NAMESPACE
     and setting \l echoMode to an appropriate value enables TextInput to be used for
     a password input field.
 
-    On \macos, the Up/Down key bindings for Home/End are explicitly disabled.
+    On OS X, the Up/Down key bindings for Home/End are explicitly disabled.
     If you want such bindings (on any platform), you will need to construct them in QML.
 
     \sa TextEdit, Text, {declarative/text/textselection}{Text Selection example}

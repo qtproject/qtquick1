@@ -34,7 +34,7 @@
 #ifndef QDECLARATIVEDEBUGHELPER_P_H
 #define QDECLARATIVEDEBUGHELPER_P_H
 
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 

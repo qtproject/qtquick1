@@ -46,8 +46,8 @@
 //
 
 #include "qdeclarativeitem.h"
-#include "private/qdeclarativeimplicitsizeitem_p_p.h"
-#include "private/qdeclarativetextlayout_p.h"
+#include "qdeclarativeimplicitsizeitem_p_p.h"
+#include "qdeclarativetextlayout_p.h"
 
 #include <qdeclarative.h>
 

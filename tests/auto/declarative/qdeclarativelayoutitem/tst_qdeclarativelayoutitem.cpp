@@ -34,7 +34,7 @@
 #include <qdeclarativecomponent.h>
 #include <qdeclarativeengine.h>
 #include <qdeclarativeitem.h>
-#include <private/qdeclarativelayoutitem_p.h>
+#include <qdeclarativelayoutitem_p.h>
 #include <qgraphicsview.h>
 #include <qgraphicsscene.h>
 #include <qgraphicswidget.h>

@@ -36,7 +36,7 @@
 
 #include "qtdeclarativeglobal.h"
 
-#include <private/qdeclarativedebugservice_p.h>
+#include <qdeclarativedebugservice_p.h>
 #include <qelapsedtimer.h>
 
 QT_BEGIN_NAMESPACE

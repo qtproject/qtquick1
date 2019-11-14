@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativepath_p.h"
-#include "private/qdeclarativepath_p_p.h"
+#include "qdeclarativepath_p.h"
+#include "qdeclarativepath_p_p.h"
 
 #include <QSet>
 #include <QTime>
 
-#include <private/qbezier_p.h>
+#include <qbezier_p.h>
 #include <QtCore/qmath.h>
 #include <QtCore/qnumeric.h>
 

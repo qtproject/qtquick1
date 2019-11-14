@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeanchors_p_p.h"
+#include "qdeclarativeanchors_p_p.h"
 
 #include "qdeclarativeitem.h"
-#include "private/qdeclarativeitem_p.h"
+#include "qdeclarativeitem_p.h"
 
 #include <qdeclarativeinfo.h>
 

@@ -47,7 +47,7 @@
 #include <QCursor>
 #include <qdeclarative.h>
 
-#include <private/qdeclarativemetatype_p.h>
+#include <qdeclarativemetatype_p.h>
 
 class tst_qdeclarativemetatype : public QObject
 {

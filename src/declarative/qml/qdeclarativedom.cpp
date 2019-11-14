@@ -31,13 +31,13 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativedom_p.h"
-#include "private/qdeclarativedom_p_p.h"
+#include "qdeclarativedom_p.h"
+#include "qdeclarativedom_p_p.h"
 
-#include "private/qdeclarativecompiler_p.h"
-#include "private/qdeclarativeengine_p.h"
-#include "private/qdeclarativescriptparser_p.h"
-#include "private/qdeclarativeglobal_p.h"
+#include "qdeclarativecompiler_p.h"
+#include "qdeclarativeengine_p.h"
+#include "qdeclarativescriptparser_p.h"
+#include "qdeclarativeglobal_p.h"
 
 #include <QtCore/QByteArray>
 #include <QtCore/QDebug>

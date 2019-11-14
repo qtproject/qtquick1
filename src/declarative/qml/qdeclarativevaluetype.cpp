@@ -31,10 +31,10 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativevaluetype_p.h"
+#include "qdeclarativevaluetype_p.h"
 
-#include "private/qdeclarativemetatype_p.h"
-#include "private/qfont_p.h"
+#include "qdeclarativemetatype_p.h"
+#include "qfont_p.h"
 
 #include <QtWidgets/qapplication.h>
 #include <QtCore/qdebug.h>

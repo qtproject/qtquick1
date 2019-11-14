@@ -45,14 +45,14 @@
 // We mean it.
 //
 
-#include "private/qdeclarativesmoothedanimation_p.h"
-#include "private/qdeclarativeanimation_p.h"
+#include "qdeclarativesmoothedanimation_p.h"
+#include "qdeclarativeanimation_p.h"
 
-#include "private/qdeclarativeanimation_p_p.h"
+#include "qdeclarativeanimation_p_p.h"
 
 #include <qparallelanimationgroup.h>
 
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 #include <QTimer>
 
 QT_BEGIN_NAMESPACE

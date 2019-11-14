@@ -33,16 +33,16 @@
 
 #include <QtTest/QtTest>
 #include <QtCore/QStringListModel>
-#include <QtDeclarative/qdeclarativeview.h>
-#include <QtDeclarative/qdeclarativeengine.h>
-#include <QtDeclarative/qdeclarativecontext.h>
-#include <QtDeclarative/qdeclarativeexpression.h>
-#include <QtDeclarative/private/qdeclarativeitem_p.h>
-#include <QtDeclarative/private/qdeclarativelistview_p.h>
-#include <QtDeclarative/private/qdeclarativetext_p.h>
-#include <QtDeclarative/private/qdeclarativevisualitemmodel_p.h>
-#include <QtDeclarative/private/qdeclarativelistmodel_p.h>
-#include <QtDeclarative/private/qlistmodelinterface_p.h>
+#include <qdeclarativeview.h>
+#include <qdeclarativeengine.h>
+#include <qdeclarativecontext.h>
+#include <qdeclarativeexpression.h>
+#include <qdeclarativeitem_p.h>
+#include <qdeclarativelistview_p.h>
+#include <qdeclarativetext_p.h>
+#include <qdeclarativevisualitemmodel_p.h>
+#include <qdeclarativelistmodel_p.h>
+#include <qlistmodelinterface_p.h>
 #include "incrementalmodel.h"
 
 class tst_QDeclarativeListView : public QObject

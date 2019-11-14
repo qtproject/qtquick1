@@ -34,8 +34,8 @@
 #ifndef QDECLARATIVEITEM_H
 #define QDECLARATIVEITEM_H
 
-#include <QtDeclarative/qdeclarative.h>
-#include <QtDeclarative/qdeclarativecomponent.h>
+#include <qdeclarative.h>
+#include <qdeclarativecomponent.h>
 
 #include <QtCore/QObject>
 #include <QtCore/QList>

@@ -35,7 +35,7 @@
 #define QDECLARATIVESMOOTHEDANIMATION_H
 
 #include <qdeclarative.h>
-#include "private/qdeclarativeanimation_p.h"
+#include "qdeclarativeanimation_p.h"
 
 #include <QtCore/qobject.h>
 

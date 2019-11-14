@@ -36,7 +36,7 @@
 
 #include <QtCore/qdebug.h>
 #include <QtCore/qurl.h>
-#include <QtDeclarative/qdeclarativeerror.h>
+#include <qdeclarativeerror.h>
 
 QT_BEGIN_NAMESPACE
 

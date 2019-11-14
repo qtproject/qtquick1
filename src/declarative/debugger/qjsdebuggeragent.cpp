@@ -31,9 +31,9 @@
 **
 ****************************************************************************/
 
-#include "private/qjsdebuggeragent_p.h"
-#include "private/qdeclarativedebughelper_p.h"
-#include "private/qjsdebugservice_p.h"
+#include "qjsdebuggeragent_p.h"
+#include "qdeclarativedebughelper_p.h"
+#include "qjsdebugservice_p.h"
 
 #include <QtCore/qdatetime.h>
 #include <QtCore/qcoreapplication.h>

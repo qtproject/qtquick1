@@ -35,7 +35,7 @@
 #define QDECLARATIVEDEBUGSERVICE_P_H
 
 #include <QtCore/qglobal.h>
-#include <private/qobject_p.h>
+#include <qobject_p.h>
 
 QT_BEGIN_NAMESPACE
 

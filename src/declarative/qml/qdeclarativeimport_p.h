@@ -37,9 +37,9 @@
 #include <QtCore/qurl.h>
 #include <QtCore/qcoreapplication.h>
 #include <QtCore/qset.h>
-#include <private/qdeclarativedirparser_p.h>
-#include <private/qdeclarativescriptparser_p.h>
-#include <private/qdeclarativemetatype_p.h>
+#include <qdeclarativedirparser_p.h>
+#include <qdeclarativescriptparser_p.h>
+#include <qdeclarativemetatype_p.h>
 
 //
 //  W A R N I N G

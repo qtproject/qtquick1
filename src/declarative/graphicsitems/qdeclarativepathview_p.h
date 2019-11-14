@@ -35,7 +35,7 @@
 #define QDECLARATIVEPATHVIEW_H
 
 #include "qdeclarativeitem.h"
-#include "private/qdeclarativepath_p.h"
+#include "qdeclarativepath_p.h"
 
 QT_BEGIN_NAMESPACE
 

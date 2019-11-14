@@ -45,7 +45,7 @@
 // We mean it.
 //
 
-#include <QtDeclarative/qtdeclarativeglobal.h>
+#include <qtdeclarativeglobal.h>
 #include <QtCore/qvariant.h>
 #include <QtCore/qurl.h>
 

@@ -45,14 +45,14 @@
 // We mean it.
 //
 
-#include "private/qdeclarativepathview_p.h"
+#include "qdeclarativepathview_p.h"
 
-#include "private/qdeclarativeitem_p.h"
-#include "private/qdeclarativevisualitemmodel_p.h"
+#include "qdeclarativeitem_p.h"
+#include "qdeclarativevisualitemmodel_p.h"
 
 #include <qdeclarative.h>
 #include <qdeclarativeanimation_p_p.h>
-#include <private/qdeclarativeguard_p.h>
+#include <qdeclarativeguard_p.h>
 
 #include <qdatetime.h>
 

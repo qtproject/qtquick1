@@ -39,7 +39,7 @@
 ****************************************************************************/
 
 #include <QtDeclarative/QDeclarativeExtensionPlugin>
-#include <QtDeclarative/qdeclarative.h>
+#include <qdeclarative.h>
 #include <QtWidgets/QGraphicsProxyWidget>
 #include <QtWidgets/QPushButton>
 #include <QDebug>

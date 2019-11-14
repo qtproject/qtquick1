@@ -33,14 +33,14 @@
 
 #include <QtScript/QScriptEngine>
 
-#include "private/qdeclarativedebughelper_p.h"
+#include "qdeclarativedebughelper_p.h"
 
 #include <QtCore/QAbstractAnimation>
 #include <QtScript/QScriptEngine>
 
-#include <private/qdeclarativeengine_p.h>
-#include <private/qabstractanimation_p.h>
-#include <private/qdeclarativeengine_p.h>
+#include <qdeclarativeengine_p.h>
+#include <qabstractanimation_p.h>
+#include <qdeclarativeengine_p.h>
 
 QT_BEGIN_NAMESPACE
 

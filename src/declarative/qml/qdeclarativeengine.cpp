@@ -31,39 +31,39 @@
 **
 ****************************************************************************/
 
-#include "private/qdeclarativeengine_p.h"
+#include "qdeclarativeengine_p.h"
 #include "qdeclarativeengine.h"
 
-#include "private/qdeclarativecontext_p.h"
-#include "private/qdeclarativecompiler_p.h"
-#include "private/qdeclarativeglobalscriptclass_p.h"
+#include "qdeclarativecontext_p.h"
+#include "qdeclarativecompiler_p.h"
+#include "qdeclarativeglobalscriptclass_p.h"
 #include "qdeclarative.h"
 #include "qdeclarativecontext.h"
 #include "qdeclarativeexpression.h"
 #include "qdeclarativecomponent.h"
-#include "private/qdeclarativebinding_p_p.h"
-#include "private/qdeclarativevme_p.h"
-#include "private/qdeclarativeenginedebugservice_p.h"
-#include "private/qdeclarativestringconverters_p.h"
-#include "private/qdeclarativexmlhttprequest_p.h"
-#include "private/qdeclarativesqldatabase_p.h"
-#include "private/qdeclarativetypenamescriptclass_p.h"
-#include "private/qdeclarativelistscriptclass_p.h"
+#include "qdeclarativebinding_p_p.h"
+#include "qdeclarativevme_p.h"
+#include "qdeclarativeenginedebugservice_p.h"
+#include "qdeclarativestringconverters_p.h"
+#include "qdeclarativexmlhttprequest_p.h"
+#include "qdeclarativesqldatabase_p.h"
+#include "qdeclarativetypenamescriptclass_p.h"
+#include "qdeclarativelistscriptclass_p.h"
 #include "qdeclarativescriptstring.h"
-#include "private/qdeclarativeglobal_p.h"
-#include "private/qdeclarativeworkerscript_p.h"
-#include "private/qdeclarativecomponent_p.h"
+#include "qdeclarativeglobal_p.h"
+#include "qdeclarativeworkerscript_p.h"
+#include "qdeclarativecomponent_p.h"
 #include "qdeclarativenetworkaccessmanagerfactory.h"
 #include "qdeclarativeimageprovider.h"
-#include "private/qdeclarativedirparser_p.h"
+#include "qdeclarativedirparser_p.h"
 #include "qdeclarativeextensioninterface.h"
-#include "private/qdeclarativelist_p.h"
-#include "private/qdeclarativetypenamecache_p.h"
-#include "private/qdeclarativeinclude_p.h"
-#include "private/qdeclarativenotifier_p.h"
-#include "private/qdeclarativedebugtrace_p.h"
-#include "private/qdeclarativeapplication_p.h"
-#include "private/qjsdebugservice_p.h"
+#include "qdeclarativelist_p.h"
+#include "qdeclarativetypenamecache_p.h"
+#include "qdeclarativeinclude_p.h"
+#include "qdeclarativenotifier_p.h"
+#include "qdeclarativedebugtrace_p.h"
+#include "qdeclarativeapplication_p.h"
+#include "qjsdebugservice_p.h"
 
 #include <QtCore/qmetaobject.h>
 #include <QScriptClass>
@@ -91,11 +91,11 @@
 #include <QtGui/qvector3d.h>
 #include <QtCore/qcryptographichash.h>
 
-#include <private/qobject_p.h>
-#include <private/qscriptdeclarativeclass_p.h>
+#include <qobject_p.h>
+#include <qscriptdeclarativeclass_p.h>
 
-#include <private/qdeclarativeitemsmodule_p.h>
-#include <private/qdeclarativeutilmodule_p.h>
+#include <qdeclarativeitemsmodule_p.h>
+#include <qdeclarativeutilmodule_p.h>
 
 #ifdef Q_OS_WIN // for %APPDATA%
 #include <qt_windows.h>

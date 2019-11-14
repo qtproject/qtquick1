@@ -34,10 +34,10 @@
 #ifndef QDECLARATIVESTATEOPERATIONS_H
 #define QDECLARATIVESTATEOPERATIONS_H
 
-#include "private/qdeclarativestate_p.h"
+#include "qdeclarativestate_p.h"
 
 #include <qdeclarativeitem.h>
-#include <private/qdeclarativeanchors_p.h>
+#include <qdeclarativeanchors_p.h>
 #include <qdeclarativescriptstring.h>
 
 QT_BEGIN_NAMESPACE

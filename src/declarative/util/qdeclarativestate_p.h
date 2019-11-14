@@ -38,7 +38,7 @@
 #include <qdeclarativeproperty.h>
 #include <QtCore/qobject.h>
 #include <QtCore/qsharedpointer.h>
-#include <private/qtdeclarativeglobal_p.h>
+#include <qtdeclarativeglobal_p.h>
 
 QT_BEGIN_NAMESPACE
 
